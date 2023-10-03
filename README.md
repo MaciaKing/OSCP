@@ -13,7 +13,7 @@ Looking at `/proc/version` may give you information on the kernel version and ad
 
 - `ps` Command: The `ps` command is an effective way to see the running processes on a Linux system. Typing `ps` on your terminal will show processes for the current shell.
 
-    The output of the `p` (Process Status) will show the following;
+    The output of the `ps` (Process Status) will show the following;
     - PID: The process ID (unique to the process)
     - TTY: Terminal type used by the user
     - Time: Amount of CPU time used by the process (this is NOT the time this process has been running for)
